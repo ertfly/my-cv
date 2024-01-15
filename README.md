@@ -2,8 +2,8 @@
 
 ## Informações de Contato
 - Email: contato@ericteixeira.com.br
-- LinkedIn: [Seu Perfil no LinkedIn](https://linkedin.com/in/ericteixeira)
-- GitHub: [Seu Perfil no GitHub](https://github.com/ertfly)
+- LinkedIn: (https://linkedin.com/in/ericteixeira)
+- GitHub: (https://github.com/ertfly)
 
 ## Habilidades
 - Backend (PHP, Go, NodeJS),
